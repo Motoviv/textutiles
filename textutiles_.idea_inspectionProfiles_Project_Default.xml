@@ -1,0 +1,25 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E111" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="r7.s3" />
+          <option value="r7.s2" />
+          <option value="r7.s1" />
+          <option value="r7.s4" />
+          <option value="r7.s5" />
+          <option value="r7.i1" />
+          <option value="t17.inptext" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
